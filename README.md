@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Yogesh 👋
+
+Building awesome mobile experiences one pixel at a time ✨
 
 - 🧑‍💻 I'm a Software Engineer working at [CoinDCX](https://coindcx.com/), building the mobile application.
 - ✨ I love building amazing products through code.
