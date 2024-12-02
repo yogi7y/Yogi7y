@@ -1,1 +1,1 @@
-Building awesome mobile experiences one pixel at a time ✨
+Building awesome mobile experiences one pixel at a time. ✨
