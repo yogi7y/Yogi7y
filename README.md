@@ -1,5 +1,4 @@
-
-# Hi, I'm Yogesh 👋
+# Hey, I'm Yogesh 👋
 
 I'm a Software Engineer with 7 years of experience building and scaling applications for **20M+ users**. I love creating exceptional user experiences, solving real problems, and building tools that make developers' lives easier. My work has been recognized with awards including **Best Startup IIT Bombay '21** and **Best Startup Asia '21** (Top 4 out of 12.5k+ startups).
 
@@ -9,7 +8,7 @@ I'm a Software Engineer with 7 years of experience building and scaling applicat
 - 📦 **Build in public** - Created packages like [smart_textfield](https://pub.dev/packages/smart_textfield), [notion_db_sdk](https://pub.dev/packages/notion_db_sdk) to contribute to the open source community
 - ✍️ **Share knowledge** - Writing about tech, architecture, and lessons learned on [Medium](https://yogi7y.medium.com/)
 - 🎯 **Obsess over craft** - Clean code, SOLID principles, Architecture, Design patterns, exceptional UX - no compromises! 💪
-- 🧠 **Stay curious** - Learning about anything and everything - tech, finance, soft skills, design, life. Always up for a deep conversation! ☕
+- 🧠 **Stay curious** - Learning about anything and everything: tech, finance, soft skills, design, life. Always up for a deep conversation! ☕
 
 ## Tech Stack
 
